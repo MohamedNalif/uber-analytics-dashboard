@@ -43,3 +43,16 @@ trips, payments, reviews, cancellations
 - 1,600 riders
 - 4 cities
 - 10 vehicle models
+## 📸 Dashboard Screenshots
+
+### 🏠 Home Page
+![Home Page](image.jpg)
+
+### 👥 Customer Analytics
+![Customer](customer.jpg)
+
+### 🚗 Drivers Analytics
+![Drivers](drivers.jpg)
+
+### 🚙 Vehicle Analytics
+![Vehicles](vehicles.jpg)
