@@ -46,7 +46,7 @@ trips, payments, reviews, cancellations
 ## 📸 Dashboard Screenshots
 
 ### 🏠 Home Page
-![Home Page](image.jpg)
+![Home Page](HomePage.jpg)
 
 ### 👥 Customer Analytics
 ![Customer](customer.jpg)
@@ -55,5 +55,5 @@ trips, payments, reviews, cancellations
 ![Drivers](drivers.jpg)
 
 ### 🚙 Vehicle Analytics
-[![Vehicles](vehiclepage.jpg)]
+[![Vehicles](vehicles.jpg)]
 
