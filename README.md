@@ -55,4 +55,5 @@ trips, payments, reviews, cancellations
 ![Drivers](drivers.jpg)
 
 ### 🚙 Vehicle Analytics
-![Vehicles](vehicles.jpg)
+[![Vehicles](vehiclespage.jpg)]
+
